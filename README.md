@@ -1,5 +1,5 @@
 
-# SYAM DEVELOPER
+# SYAM DZAKI RAHMAN
 
 ### Informatics Student · Aspiring Software Developer
 
