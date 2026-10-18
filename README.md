@@ -1,25 +1,31 @@
 
-# SYAM DZAKI RAHMAN
+<h1 align="center">Hey, I'm Syam 👋</h1>
 
-### Informatics Student · Aspiring Software Developer
+<p align="center">
+  <b>Informatics Student · Aspiring Software Developer</b>
+</p>
+
+<p align="center">
+  Building my skills, one line of code at a time.
+</p>
 
 ---
 
-## About Me
+### About Me
 
-I'm an Informatics student learning to build useful things through code.
+I'm an Informatics student who enjoys learning how things work and turning ideas into code.
 
-- Currently learning C++, Python, and Web Development.
-- Interested in problem-solving and software development.
-- Building projects to turn knowledge into practice.
+- 🌱 Currently learning C++, Python, and Web Development.
+- 💻 Exploring software development through hands-on projects.
+- 🧠 I believe in understanding the code, not just making it work.
 
-## Tech Stack
+### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,vscode,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode" alt="Tech Stack" />
 </p>
 
-## Current Focus
+### Currently
 
 Learning by building. Improving through debugging.
 
