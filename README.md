@@ -16,7 +16,7 @@ I'm an Informatics student learning to build useful things through code.
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,vscode,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,vscode,github" alt="Tech Stack" />
 </p>
 
 ## Current Focus
