@@ -22,7 +22,7 @@ I'm an Informatics student who enjoys learning how things work and turning ideas
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,github,vscode" alt="Tech Stack" />
 </p>
 
 ### Currently
